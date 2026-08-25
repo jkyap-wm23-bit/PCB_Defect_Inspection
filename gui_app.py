@@ -31,7 +31,7 @@ from reportlab.platypus import (
 # ============================================================
 
 MODEL_PATH = (
-    r"best.pt"
+    "best.pt"
 )
 
 CLASS_NAMES = {
