@@ -31,9 +31,7 @@ from reportlab.platypus import (
 # ============================================================
 
 MODEL_PATH = (
-    r"C:\Users\Yapjunkit\runs\detect"
-    r"\pcb_yolov11_runs\yolo11s_optimized_aug-4"
-    r"\weights\best.pt"
+    r"best.pt"
 )
 
 CLASS_NAMES = {
